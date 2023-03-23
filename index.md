@@ -8,7 +8,8 @@
 Customer complaints can provide valuable insights into the issues people are facing in the marketplace, allowing us to understand the root cause and make necessary modifications to existing financial products if needed.
 Through analyzing and understanding past complaints registered against financial products, we can develop a machine learning model that can help us identify newly registered complaints and determine whether they are problematic or not. This can enable the company to take swift action to resolve the issue and address the customer's needs, leading to improved customer satisfaction and retention.
 
-The problem is to identify registered complaint will be disputed by customer or not.
+The problem is to identify registered complaint will be disputed by customer or not. 
+
 ---
 [Sensor Fault Detection](https://github.com/ParisTian-DS/sensor-fault-detection)
 
@@ -22,12 +23,14 @@ This project specifically targets the Air Pressure system (APS), which is respon
 
 The problem is to reduce the cost due to unnecessary repairs. So it is required to minimize the false predictions.
 
-
 ---
 [Interactive Dashboard for Tweets analysis](https://github.com/ParisTian-DS/Project_tweets)
-![Part-1](https://user-images.githubusercontent.com/109061477/218433510-c748bdb0-ebe6-417a-b17e-1f29908fa62c.gif)
+
 
 This project is for building a interactive data dashboard with Sentiment analysis of tweets about US Airlines.
+
+![Part-1](https://user-images.githubusercontent.com/109061477/218433510-c748bdb0-ebe6-417a-b17e-1f29908fa62c.gif)
+
 
 ---
 
