@@ -9,8 +9,7 @@
 
 ---
 [Sensor Fault Detection](https://github.com/ParisTian-DS/sensor-fault-detection)
-<img src="[images/dummy_thumbnail.jpg](https://user-images.githubusercontent.com/109061477/227123459-ee163315-a952-4d79-bfaa-75726d0a84a1.png)?raw=true"/>
-
+![faultdetection](https://user-images.githubusercontent.com/109061477/227123834-d74284f6-0d9a-4b1f-9947-fd1d24ee2086.png)
 
 ---
 [Interactive Dashboard for Tweets analysis](https://github.com/ParisTian-DS/Project_tweets)
