@@ -1,9 +1,12 @@
 title: Paris Tian # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  5+ years experienced Software Developer, with interested in analyzing a large amount of data
+  5+ years experienced Software Developer 
+  with interested in analyzing a large amount of data.
   <br><br>
-  Brings excellent communication abilities with hands-on projects in building machine learning models with deployment and creating dashboards with story telling.
+  Brings excellent communication abilities with hands-on 
+  projects in building machine learning models with deployment 
+  and creating dashboards with story telling.
   <br><br>
   
 theme: jekyll-theme-minimal
