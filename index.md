@@ -4,8 +4,8 @@
 
 
 
-[Analyzing Finance Complaint](https://github.com/ParisTian-DS/finance-complaint)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Analyzing Finance Complaint](https://github.com/ParisTian-DS/finance-complaint
+<img width="994" alt="Screenshot 2023-03-23 at 2 27 24 PM" src="https://user-images.githubusercontent.com/109061477/227122955-efec9e8b-7c52-47f8-9a95-534b63122286.png">
 
 ---
 [Sensor Fault Detection](https://github.com/ParisTian-DS/sensor-fault-detection)
