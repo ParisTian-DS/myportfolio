@@ -4,15 +4,15 @@
 
 
 
-[Analyzing Finance Complaint](/sample_page)
+[Analyzing Finance Complaint](https://github.com/ParisTian-DS/finance-complaint)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Sensor Fault Detection](/pdf/sample_presentation.pdf)
+[Sensor Fault Detection](https://github.com/ParisTian-DS/sensor-fault-detection)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Interactive Dashboard for Tweets analysis](http://example.com/)
+[Interactive Dashboard for Tweets analysis](https://github.com/ParisTian-DS/Project_tweets)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
